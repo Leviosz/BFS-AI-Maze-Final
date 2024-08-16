@@ -1,0 +1,7 @@
+C:\Users\Levi Nguyen\source\repos\BFS AI Maze Final\BFS AI Maze Final\bin\Debug\BFS AI Maze Final.exe.config
+C:\Users\Levi Nguyen\source\repos\BFS AI Maze Final\BFS AI Maze Final\bin\Debug\BFS AI Maze Final.exe
+C:\Users\Levi Nguyen\source\repos\BFS AI Maze Final\BFS AI Maze Final\bin\Debug\BFS AI Maze Final.pdb
+C:\Users\Levi Nguyen\source\repos\BFS AI Maze Final\BFS AI Maze Final\obj\Debug\BFS AI Maze Final.csproj.AssemblyReference.cache
+C:\Users\Levi Nguyen\source\repos\BFS AI Maze Final\BFS AI Maze Final\obj\Debug\BFS AI Maze Final.csproj.CoreCompileInputs.cache
+C:\Users\Levi Nguyen\source\repos\BFS AI Maze Final\BFS AI Maze Final\obj\Debug\BFS AI Maze Final.exe
+C:\Users\Levi Nguyen\source\repos\BFS AI Maze Final\BFS AI Maze Final\obj\Debug\BFS AI Maze Final.pdb
